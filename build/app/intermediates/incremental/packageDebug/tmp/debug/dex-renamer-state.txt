@@ -1,0 +1,4 @@
+#Mon Aug 23 17:59:14 PKT 2021
+base.0=C\:\\Users\\mabra\\OneDrive\\Pictures\\paymentcard\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
